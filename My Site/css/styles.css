@@ -1,0 +1,144 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+
+p{
+    line-height: 2;
+}
+
+.top-container{
+    background-color: #EAF6F6; 
+    position: relative;
+    padding-top: 100px;
+    
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.top-line{
+    text-decoration: underline;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.profile{
+    width: 50%;
+    margin: 100px auto 100px auto; 
+    
+}
+
+.middle-container{
+    width: 50%;
+    margin: 100px auto 100px auto;
+
+}
+
+h1{
+  color: #66BFBF;
+  font-size:5.625rem ;
+  margin-top: 50px auto 0px auto; 
+  font-family: 'Sacramento', cursive;
+}
+
+h2{ 
+    color: #66BFBF;
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif; 
+    font-weight: normal;
+}
+
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+    border:dotted #EAF6F6 6px;
+    border-bottom: none;
+    margin: 100px auto;
+    width: 9%;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+
+}
+
+.code-img{
+   width: 30%;
+   float: left;
+   margin-right: 30px;
+   
+}
+
+.chilli-img{
+    width: 30%;
+    float:right;
+    margin-left: 30px;
+}
+
+.contact-me{
+    
+
+}
+
+.contact-code{
+    width: 80%;
+    margin: 40px auto 60px;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0px 20px;
+    display:block;
+    height: 100px;
+}
+ 
+.footer-link{
+    color: #11999E;
+    font-family:'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+    
+}
+
+.footer-link:hover{
+    color: #EAF6F6;
+}
+
+.btn{
+    background-color:#11cdd4 ;
+   background-image: linear-gradient(#11cdd4, #11999e);
+   color: #EAF6F6;
+   text-decoration: none;
+   border-radius: 8px;
+   padding: 10px 20px 10px 20px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 20px;
+   
+} 
+
+.btn:hover{
+    background-image: linear-gradient(#30e3cb, #2bc4ad);
+    text-decoration: none;
+}
+
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding:20px 0px;
+
+  }
